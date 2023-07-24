@@ -1,5 +1,5 @@
-# bytecode
-Information on the JVM’s Bytecode specification.
+# 🧬 Bytecode
+Learn basics of the class file format, including the constant pool, attributes & code.
 
 ## Contents
 ### Introduction
